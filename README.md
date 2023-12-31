@@ -1,1 +1,1 @@
-# python_learn
+In this repository I'll add the codes that I have completed while learning python. Extensive coding is the only way you learn to code. For logic building I'll be completing various codes and compiling them here for future use.
